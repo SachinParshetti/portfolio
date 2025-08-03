@@ -43,7 +43,7 @@ const skillsData = {
   backend: [
     { name: 'Node.js', level: 85, Icon: Server },
     { name: 'Express.js', level: 80, Icon: Server },
-    { name: 'Python', level: 70, Icon: Code },
+    { name: 'Nest.js', level: 75, Icon: Server },
     { name: 'REST APIs', level: 90, Icon: Cpu },
     { name: 'GraphQL', level: 75, Icon: Cpu },
   ],
@@ -56,7 +56,6 @@ const skillsData = {
   tools: [
     { name: 'Git', level: 90, Icon: TerminalSquare },
     { name: 'Docker', level: 75, Icon: Rocket },
-    { name: 'Webpack', level: 70, Icon: Rocket },
     { name: 'Vercel', level: 85, Icon: Rocket },
     { name: 'Netlify', level: 80, Icon: Rocket },
     { name: 'CI/CD', level: 75, Icon: Rocket },
@@ -64,7 +63,6 @@ const skillsData = {
     { name: 'npm', level: 90, Icon: TerminalSquare },
   ],
 };
-
 const categoryColors: { [key: string]: string } = {
   frontend: 'hsl(var(--chart-1))',
   backend: 'hsl(var(--chart-2))',
