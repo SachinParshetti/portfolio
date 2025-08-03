@@ -1,4 +1,4 @@
-# 💼 Personal Portfolio – [Your Name]
+# 💼 Personal Portfolio – [Sachin Parashetti]
 
 Welcome to my developer portfolio! This is a modern, responsive, and animated portfolio built with **Next.js**, **Tailwind CSS**, and a collection of cutting-edge libraries for motion, UI, and data visualization.
 
