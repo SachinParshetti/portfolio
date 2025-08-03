@@ -92,7 +92,7 @@ export function Projects() {
                     height="310"
                     src={project.image}
                     width="550"
-                    data-ai-hint={project.aiHint}
+                   
                   />
                 </CardContent>
                 <CardFooter className="flex justify-between mt-auto">
