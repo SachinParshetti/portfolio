@@ -22,7 +22,7 @@ const projectsData = [
     image: '/images/contactManager.png',
     liveUrl: 'https://contactmanagerapps.netlify.app',
     githubUrl: 'https://github.com/SachinParshetti/contact-app.git',
-    aiHint: 'online store',
+
   },
   {
     title: 'Task Master (Task Management App)',
@@ -37,8 +37,8 @@ const projectsData = [
     title: 'Portfolio Website',
     description:'A modern personal portfolio website designed to showcase my skills, projects, and development journey. Built using Next.js, React, Tailwind CSS, Framer Motion, and Recharts, this portfolio features smooth animations, interactive charts, and a responsive design',
     image: '/images/portfolio.png',
-    liveUrl: '#',
-    githubUrl: '#',
+    liveUrl: 'https://sachin-parshetti-portfolio.vercel.app/',
+    githubUrl: 'https://github.com/SachinParshetti/portfolio.git',
 
   },
 ];
