@@ -133,7 +133,7 @@ export function Contact() {
                           <FormControl>
                             <div className="relative">
                               <User className="absolute left-3 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground" />
-                              <Input placeholder="Sachin Parashetti" {...field} className="pl-10" />
+                              <Input placeholder="Enter Your Name" {...field} className="pl-10" />
                             </div>
                           </FormControl>
                           <FormMessage />
@@ -149,7 +149,7 @@ export function Contact() {
                           <FormControl>
                             <div className="relative">
                               <Mail className="absolute left-3 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground" />
-                              <Input placeholder="sachinparshettisp@gmail.com" {...field} className="pl-10" />
+                              <Input placeholder="Enter Your Email" {...field} className="pl-10" />
                             </div>
                           </FormControl>
                           <FormMessage />
