@@ -43,10 +43,10 @@ export function Footer() {
         <div>
             <h3 className="text-lg font-semibold mb-4 font-headline">Connect With Me</h3>
             <div className="flex justify-center md:justify-start space-x-4 mb-4">
-                <a href="#" aria-label="GitHub" className="icon-container-gradient bg-primary/10 dark:bg-primary/20 p-3 rounded-full transition-all duration-300">
+                <a href="https://github.com/SachinParshetti" aria-label="GitHub" className="icon-container-gradient bg-primary/10 dark:bg-primary/20 p-3 rounded-full transition-all duration-300">
                     <Github className="h-6 w-6 text-primary icon-target transition-colors duration-300" />
                 </a>
-                <a href="#" aria-label="LinkedIn" className="icon-container-gradient bg-primary/10 dark:bg-primary/20 p-3 rounded-full transition-all duration-300">
+                <a href="https://www.linkedin.com/in/sachin-parashetti-99b255259/" aria-label="LinkedIn" className="icon-container-gradient bg-primary/10 dark:bg-primary/20 p-3 rounded-full transition-all duration-300">
                     <Linkedin className="h-6 w-6 text-primary icon-target transition-colors duration-300" />
                 </a>
                 <a href="mailto:sachinparshettisp@gmail.com" aria-label="Email" className="icon-container-gradient bg-primary/10 dark:bg-primary/20 p-3 rounded-full transition-all duration-300">
