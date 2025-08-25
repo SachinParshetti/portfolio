@@ -37,7 +37,7 @@ const projectsData = [
     title: 'Portfolio Website',
     description:'A modern personal portfolio website designed to showcase my skills, projects, and development journey. Built using Next.js, React, Tailwind CSS, Framer Motion, and Recharts, this portfolio features smooth animations, interactive charts, and a responsive design',
     image: '/images/portfolio.png',
-    liveUrl: 'https://sachin-parshetti-portfolio.vercel.app/',
+    liveUrl: 'https://sachin-parshetti.vercel.app',
     githubUrl: 'https://github.com/SachinParshetti/portfolio.git',
 
   },
