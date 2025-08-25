@@ -55,7 +55,7 @@ export function Hero() {
               <Link href="#contact">
                 <Button variant="secondary" className="w-full sm:w-auto transition-transform duration-300 ease-in-out hover:scale-110">Contact Me</Button>
               </Link>
-              <a href="/resume.pdf" download="Sachin-Parashetti-Resume.pdf">
+              <a href="/Sachin-Parashetti-Resume.pdf" download="Sachin-Parashetti-Resume.pdf">
                 <Button variant="outline" className="w-full sm:w-auto transition-transform duration-300 ease-in-out hover:scale-110">
                   <Download className="mr-2 h-4 w-4" />
                   Download Resume

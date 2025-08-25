@@ -7,7 +7,7 @@ import { Button } from '@/components/ui/button';
 import { ArrowRight } from 'lucide-react';
 import { motion } from 'framer-motion';
 
-// Type for the blog post data from the dev.to API
+
 interface DevToPost {
   id: number;
   title: string;
